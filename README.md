@@ -38,7 +38,7 @@ process the user's input.
   - [ ] This method should take an 'int' as a parameter (such as birth month) and return a 'double'.
 - [ ] Create a Method that judges how good the fortune is.
  - [ ] This method should take no parameters.
- - [ ] This method should be return type void.
+ - [ ] This method should be return type 'void'.
  - [ ] This method should tell the user what the fortune teller thinks of the fortune.
   - [ ] example: "Oooh! That's a good fortune!" or "Well, I think that was the weirdest fortune I've ever told!"
   - [ ] hint: Don't overthink it.
@@ -55,7 +55,7 @@ process the user's input.
 ### Optional Extension Challenge:
 - [ ] Create a single Method that allows the user to either quit or restart the program at any point where the program is looking for user input.
 - [ ] Create an overloaded Method that allows the user to pick their two favorite colors, and give them a special mode of transportation based on color combinations.
-- [ ] Determine which of the methods in this project could be converted to "void" methods, and write out those "void" methods below the rest of your code, commented out with "///"
+- [ ] Determine which of the methods in this project could be converted to 'void' methods, and write out those 'void' methods below the rest of your code, commented out with "///"
 
 
 ### Project Submission
