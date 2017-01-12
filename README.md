@@ -39,7 +39,7 @@ process the user's input.
 - [ ] Create a Method that judges how good the fortune is.
  - [ ] This method should take no parameters.
  - [ ] This method should be return type 'void'.
- - [ ] This method should tell the user what the fortune teller thinks of the fortune.
+ - [ ] This method should tell the user what the fortune teller thinks of the fortune. Pick a phrase of your choosing.
   - [ ] example: "Oooh! That's a good fortune!" or "Well, I think that was the weirdest fortune I've ever told!"
   - [ ] hint: Don't overthink it.
 - [ ] Create a Method that allows the user to quit the program at any point where the program is looking for user input.
