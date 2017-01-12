@@ -42,6 +42,8 @@ process the user's input.
  - [ ] This method should tell the user what the fortune teller thinks of the fortune.
   - [ ] example: "Oooh! That's a good fortune!" or "Well, I think that was the weirdest fortune I've ever told!"
   - [ ] hint: Don't overthink it.
+- [ ] Create a Method that allows the user to quit the program at any point where the program is looking for user input.
+- [ ] Create a Method that allows the user to restart the program at any point where the program is looking for user input.
 
 ### Part 3
 - [ ] The user should be greeted after entering their name.
@@ -51,8 +53,6 @@ process the user's input.
 - [ ] Program should be able to handle whether or not a user inputs capital or lowercase letters.
 
 ### Optional Extension Challenge:
-- [ ] Create a Method that allows the user to quit the program at any point where the program is looking for user input.
-- [ ] Create a Method that allows the user to restart the program at any point where the program is looking for user input.
 - [ ] Create a single Method that allows the user to either quit or restart the program at any point where the program is looking for user input.
 - [ ] Create an overloaded Method that allows the user to pick their two favorite colors, and give them a special mode of transportation based on color combinations.
 - [ ] Determine which of the methods in this project could be converted to "void" methods, and write out those "void" methods below the rest of your code, commented out with "///"
